@@ -1,0 +1,14 @@
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/bin/Debug/net10.0/Bonus
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/bin/Debug/net10.0/Bonus.deps.json
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/bin/Debug/net10.0/Bonus.runtimeconfig.json
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/bin/Debug/net10.0/Bonus.dll
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/bin/Debug/net10.0/Bonus.pdb
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/Bonus.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/Bonus.AssemblyInfoInputs.cache
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/Bonus.AssemblyInfo.cs
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/Bonus.csproj.CoreCompileInputs.cache
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/Bonus.dll
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/refint/Bonus.dll
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/Bonus.pdb
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/Bonus.genruntimeconfig.cache
+/home/davi/RiderProjects/desafio-semana-01-csharp/Bonus/obj/Debug/net10.0/ref/Bonus.dll
